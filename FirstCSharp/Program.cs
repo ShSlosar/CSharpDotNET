@@ -2,6 +2,8 @@
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        string place = "dealer";
+        string message = $"hello {place}";
+        Console.WriteLine(message);
     }
 }

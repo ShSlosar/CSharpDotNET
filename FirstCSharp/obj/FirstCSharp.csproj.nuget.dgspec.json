@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shelby\\Desktop\\Code Curios\\FirstCSharp\\FirstCSharp.csproj": {}
+    "C:\\Users\\Shelby\\Desktop\\Code Curios\\CSharpDotNET\\FirstCSharp\\FirstCSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shelby\\Desktop\\Code Curios\\FirstCSharp\\FirstCSharp.csproj": {
+    "C:\\Users\\Shelby\\Desktop\\Code Curios\\CSharpDotNET\\FirstCSharp\\FirstCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shelby\\Desktop\\Code Curios\\FirstCSharp\\FirstCSharp.csproj",
+        "projectUniqueName": "C:\\Users\\Shelby\\Desktop\\Code Curios\\CSharpDotNET\\FirstCSharp\\FirstCSharp.csproj",
         "projectName": "FirstCSharp",
-        "projectPath": "C:\\Users\\Shelby\\Desktop\\Code Curios\\FirstCSharp\\FirstCSharp.csproj",
+        "projectPath": "C:\\Users\\Shelby\\Desktop\\Code Curios\\CSharpDotNET\\FirstCSharp\\FirstCSharp.csproj",
         "packagesPath": "C:\\Users\\Shelby\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shelby\\Desktop\\Code Curios\\FirstCSharp\\obj\\",
+        "outputPath": "C:\\Users\\Shelby\\Desktop\\Code Curios\\CSharpDotNET\\FirstCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Shelby\\AppData\\Roaming\\NuGet\\NuGet.Config"
