@@ -1,0 +1,15 @@
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\Fundimentals_one\obj\Debug\net6.0\Fundimentals_one.csproj.AssemblyReference.cache
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\Fundimentals_one\obj\Debug\net6.0\Fundimentals_one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\Fundimentals_one\obj\Debug\net6.0\Fundimentals_one.AssemblyInfoInputs.cache
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\Fundimentals_one\obj\Debug\net6.0\Fundimentals_one.AssemblyInfo.cs
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\Fundimentals_one\obj\Debug\net6.0\Fundimentals_one.csproj.CoreCompileInputs.cache
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\Fundimentals_one\bin\Debug\net6.0\Fundimentals_one.exe
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\Fundimentals_one\bin\Debug\net6.0\Fundimentals_one.deps.json
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\Fundimentals_one\bin\Debug\net6.0\Fundimentals_one.runtimeconfig.json
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\Fundimentals_one\bin\Debug\net6.0\Fundimentals_one.dll
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\Fundimentals_one\bin\Debug\net6.0\Fundimentals_one.pdb
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\Fundimentals_one\obj\Debug\net6.0\Fundimentals_one.dll
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\Fundimentals_one\obj\Debug\net6.0\refint\Fundimentals_one.dll
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\Fundimentals_one\obj\Debug\net6.0\Fundimentals_one.pdb
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\Fundimentals_one\obj\Debug\net6.0\Fundimentals_one.genruntimeconfig.cache
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\Fundimentals_one\obj\Debug\net6.0\ref\Fundimentals_one.dll
