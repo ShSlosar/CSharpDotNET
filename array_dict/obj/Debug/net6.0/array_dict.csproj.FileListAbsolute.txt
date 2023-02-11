@@ -1,0 +1,15 @@
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\array_dict\bin\Debug\net6.0\array_dict.exe
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\array_dict\bin\Debug\net6.0\array_dict.deps.json
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\array_dict\bin\Debug\net6.0\array_dict.runtimeconfig.json
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\array_dict\bin\Debug\net6.0\array_dict.dll
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\array_dict\bin\Debug\net6.0\array_dict.pdb
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\array_dict\obj\Debug\net6.0\array_dict.csproj.AssemblyReference.cache
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\array_dict\obj\Debug\net6.0\array_dict.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\array_dict\obj\Debug\net6.0\array_dict.AssemblyInfoInputs.cache
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\array_dict\obj\Debug\net6.0\array_dict.AssemblyInfo.cs
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\array_dict\obj\Debug\net6.0\array_dict.csproj.CoreCompileInputs.cache
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\array_dict\obj\Debug\net6.0\array_dict.dll
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\array_dict\obj\Debug\net6.0\refint\array_dict.dll
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\array_dict\obj\Debug\net6.0\array_dict.pdb
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\array_dict\obj\Debug\net6.0\array_dict.genruntimeconfig.cache
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\array_dict\obj\Debug\net6.0\ref\array_dict.dll
