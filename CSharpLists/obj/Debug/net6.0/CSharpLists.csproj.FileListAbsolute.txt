@@ -1,0 +1,15 @@
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\CSharpLists\bin\Debug\net6.0\CSharpLists.exe
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\CSharpLists\bin\Debug\net6.0\CSharpLists.deps.json
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\CSharpLists\bin\Debug\net6.0\CSharpLists.runtimeconfig.json
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\CSharpLists\bin\Debug\net6.0\CSharpLists.dll
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\CSharpLists\bin\Debug\net6.0\CSharpLists.pdb
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\CSharpLists\obj\Debug\net6.0\CSharpLists.csproj.AssemblyReference.cache
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\CSharpLists\obj\Debug\net6.0\CSharpLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\CSharpLists\obj\Debug\net6.0\CSharpLists.AssemblyInfoInputs.cache
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\CSharpLists\obj\Debug\net6.0\CSharpLists.AssemblyInfo.cs
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\CSharpLists\obj\Debug\net6.0\CSharpLists.csproj.CoreCompileInputs.cache
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\CSharpLists\obj\Debug\net6.0\CSharpLists.dll
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\CSharpLists\obj\Debug\net6.0\refint\CSharpLists.dll
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\CSharpLists\obj\Debug\net6.0\CSharpLists.pdb
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\CSharpLists\obj\Debug\net6.0\CSharpLists.genruntimeconfig.cache
+C:\Users\Shelby\Desktop\Code Curios\CSharpDotNET\CSharpLists\obj\Debug\net6.0\ref\CSharpLists.dll
