@@ -15,7 +15,5 @@
         foreach (string car in myCars){
             Console.WriteLine($"I own a {car}");
             }
-
-
     }
 }
